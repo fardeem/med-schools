@@ -1,0 +1,1202 @@
+[
+  {
+    "School": "Harvard",
+    "USNWR Ranking Research": 1,
+    "USNWR Primary Care Ranking": 8,
+    "acceptance rate": "3.49%",
+    "Public/Private": "Private - MA",
+    "Median MCAT": 520,
+    "Median GPA": 3.94,
+    "% of students OOS": "90.30%"
+  },
+  {
+    "School": "NYU",
+    "USNWR Ranking Research": 2,
+    "USNWR Primary Care Ranking": 41,
+    "acceptance rate": "2.22%",
+    "Public/Private": "Private - NY",
+    "Median MCAT": 522,
+    "Median GPA": 3.95,
+    "% of students OOS": "81.19%"
+  },
+  {
+    "School": "Duke",
+    "USNWR Ranking Research": 3,
+    "USNWR Primary Care Ranking": 51,
+    "acceptance rate": "3.65%",
+    "Public/Private": "Private-NC",
+    "Median MCAT": 519,
+    "Median GPA": 3.89,
+    "% of students OOS": "75.97%"
+  },
+  {
+    "School": "Columbia",
+    "USNWR Ranking Research": 4,
+    "USNWR Primary Care Ranking": 66,
+    "acceptance rate": "4.11%",
+    "Public/Private": "Private - NY",
+    "Median MCAT": 522,
+    "Median GPA": 3.92,
+    "% of students OOS": "86.23%"
+  },
+  {
+    "School": "Stanford",
+    "USNWR Ranking Research": 4,
+    "USNWR Primary Care Ranking": 22,
+    "acceptance rate": "2.28%",
+    "Public/Private": "Private - CA",
+    "Median MCAT": 519,
+    "Median GPA": 3.89,
+    "% of students OOS": "72.22%"
+  },
+  {
+    "School": "UC San Franscisco",
+    "USNWR Ranking Research": 4,
+    "USNWR Primary Care Ranking": 2,
+    "acceptance rate": "3.88%",
+    "Public/Private": "Public - CA",
+    "Median MCAT": 518,
+    "Median GPA": 3.86,
+    "% of students OOS": "24.16%"
+  },
+  {
+    "School": "Johns Hopkins",
+    "USNWR Ranking Research": 7,
+    "USNWR Primary Care Ranking": 59,
+    "acceptance rate": "6.76%",
+    "Public/Private": "Private - MD",
+    "Median MCAT": 521,
+    "Median GPA": 3.95,
+    "% of students OOS": "91.53%"
+  },
+  {
+    "School": "University of Washington",
+    "USNWR Ranking Research": 7,
+    "USNWR Primary Care Ranking": 1,
+    "acceptance rate": "4.73%",
+    "Public/Private": "Public - WA",
+    "Median MCAT": 512,
+    "Median GPA": 3.74,
+    "% of students OOS": "6.67%"
+  },
+  {
+    "School": "University of Pennsylvania (Perelman)",
+    "USNWR Ranking Research": 9,
+    "USNWR Primary Care Ranking": 24,
+    "acceptance rate": "5.23%",
+    "Public/Private": "Private-PA",
+    "Median MCAT": 522,
+    "Median GPA": 3.94,
+    "% of students OOS": "89.47%"
+  },
+  {
+    "School": "Yale",
+    "USNWR Ranking Research": 10,
+    "USNWR Primary Care Ranking": 59,
+    "acceptance rate": "5.81%",
+    "Public/Private": "Private - CT",
+    "Median MCAT": 521,
+    "Median GPA": 3.91,
+    "% of students OOS": "85.58%"
+  },
+  {
+    "School": "Mayo (Alix)",
+    "USNWR Ranking Research": 11,
+    "USNWR Primary Care Ranking": 41,
+    "acceptance rate": "3.19%",
+    "Public/Private": "Private - MN",
+    "Median MCAT": 520,
+    "Median GPA": 3.94,
+    "% of students OOS": "81.55%"
+  },
+  {
+    "School": "Wash U St. Louis",
+    "USNWR Ranking Research": 11,
+    "USNWR Primary Care Ranking": 59,
+    "acceptance rate": "8.04%",
+    "Public/Private": "Private - MO",
+    "Median MCAT": 521,
+    "Median GPA": 3.94,
+    "% of students OOS": "79.84%"
+  },
+  {
+    "School": "University of Pittsburgh",
+    "USNWR Ranking Research": 13,
+    "USNWR Primary Care Ranking": 34,
+    "acceptance rate": "4.64%",
+    "Public/Private": "Private-PA",
+    "Median MCAT": 518,
+    "Median GPA": 3.86,
+    "% of students OOS": "63.09%"
+  },
+  {
+    "School": "Vanderbilt",
+    "USNWR Ranking Research": 13,
+    "USNWR Primary Care Ranking": 36,
+    "acceptance rate": "5.53%",
+    "Public/Private": "Private-TN",
+    "Median MCAT": 521,
+    "Median GPA": 3.94,
+    "% of students OOS": "76.34%"
+  },
+  {
+    "School": "Michigan",
+    "USNWR Ranking Research": 15,
+    "USNWR Primary Care Ranking": 15,
+    "acceptance rate": "4.61%",
+    "Public/Private": "Public - WI",
+    "Median MCAT": 518,
+    "Median GPA": 3.87,
+    "% of students OOS": "57.14%"
+  },
+  {
+    "School": "Northwestern Feinberg",
+    "USNWR Ranking Research": 15,
+    "USNWR Primary Care Ranking": 39,
+    "acceptance rate": "5.71%",
+    "Public/Private": "Private-IL",
+    "Median MCAT": 520,
+    "Median GPA": 3.91,
+    "% of students OOS": "74.38%"
+  },
+  {
+    "School": "Icahn Mt. Sinai",
+    "USNWR Ranking Research": 17,
+    "USNWR Primary Care Ranking": 69,
+    "acceptance rate": "5.28%",
+    "Public/Private": "Private - NY",
+    "Median MCAT": 519,
+    "Median GPA": 3.87,
+    "% of students OOS": "72.86%"
+  },
+  {
+    "School": "University of Chicago Pritzker",
+    "USNWR Ranking Research": 17,
+    "USNWR Primary Care Ranking": 34,
+    "acceptance rate": "4.08%",
+    "Public/Private": "Private - IL",
+    "Median MCAT": 521,
+    "Median GPA": 3.93,
+    "% of students OOS": "82.22%"
+  },
+  {
+    "School": "Cornell (Weill)",
+    "USNWR Ranking Research": 19,
+    "USNWR Primary Care Ranking": 51,
+    "acceptance rate": "4.26%",
+    "Public/Private": "Private-NY",
+    "Median MCAT": 519,
+    "Median GPA": 3.91,
+    "% of students OOS": "79.25%"
+  },
+  {
+    "School": "UC San Diego",
+    "USNWR Ranking Research": 19,
+    "USNWR Primary Care Ranking": 28,
+    "acceptance rate": "3.58%",
+    "Public/Private": "Public - CA",
+    "Median MCAT": 517,
+    "Median GPA": 3.83,
+    "% of students OOS": "12.78%"
+  },
+  {
+    "School": "UCLA",
+    "USNWR Ranking Research": 21,
+    "USNWR Primary Care Ranking": 12,
+    "acceptance rate": "2.83%",
+    "Public/Private": "Public - CA",
+    "Median MCAT": 516,
+    "Median GPA": 3.84,
+    "% of students OOS": "40.00%"
+  },
+  {
+    "School": "Baylor",
+    "USNWR Ranking Research": 22,
+    "USNWR Primary Care Ranking": 17,
+    "acceptance rate": "5.34%",
+    "Public/Private": "Private-TX",
+    "Median MCAT": 518,
+    "Median GPA": 3.93,
+    "% of students OOS": "15.96%"
+  },
+  {
+    "School": "Emory",
+    "USNWR Ranking Research": 22,
+    "USNWR Primary Care Ranking": 36,
+    "acceptance rate": "3.42%",
+    "Public/Private": "Private_GA",
+    "Median MCAT": 517,
+    "Median GPA": 3.8,
+    "% of students OOS": "67.65%"
+  },
+  {
+    "School": "University of North Carolina",
+    "USNWR Ranking Research": 24,
+    "USNWR Primary Care Ranking": 3,
+    "acceptance rate": "4.09%",
+    "Public/Private": "Public - NC",
+    "Median MCAT": 515,
+    "Median GPA": 3.78,
+    "% of students OOS": "17.62%"
+  },
+  {
+    "School": "Case Western Reserve",
+    "USNWR Ranking Research": 25,
+    "USNWR Primary Care Ranking": 74,
+    "acceptance rate": "6.66%",
+    "Public/Private": "Private-OH",
+    "Median MCAT": 519,
+    "Median GPA": 3.86,
+    "% of students OOS": "84.19%"
+  },
+  {
+    "School": "UT Southwestern",
+    "USNWR Ranking Research": 26,
+    "USNWR Primary Care Ranking": 32,
+    "acceptance rate": "7.75%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 518,
+    "Median GPA": 3.9,
+    "% of students OOS": "15.79%"
+  },
+  {
+    "School": "Colorado",
+    "USNWR Ranking Research": 27,
+    "USNWR Primary Care Ranking": 6,
+    "acceptance rate": "3.12%",
+    "Public/Private": "Public - CO",
+    "Median MCAT": 515,
+    "Median GPA": 3.83,
+    "% of students OOS": "57.42%"
+  },
+  {
+    "School": "U Maryland",
+    "USNWR Ranking Research": 27,
+    "USNWR Primary Care Ranking": 16,
+    "acceptance rate": "5.84%",
+    "Public/Private": "Public - MD",
+    "Median MCAT": 514,
+    "Median GPA": 3.83,
+    "% of students OOS": "28.29%"
+  },
+  {
+    "School": "Oregon",
+    "USNWR Ranking Research": 29,
+    "USNWR Primary Care Ranking": 4,
+    "acceptance rate": "3.68%",
+    "Public/Private": "Public - OR",
+    "Median MCAT": 512,
+    "Median GPA": 3.77,
+    "% of students OOS": "21.25%"
+  },
+  {
+    "School": "USC - Keck",
+    "USNWR Ranking Research": 29,
+    "USNWR Primary Care Ranking": 46,
+    "acceptance rate": "4.52%",
+    "Public/Private": "Private - CA",
+    "Median MCAT": 517,
+    "Median GPA": 3.76,
+    "% of students OOS": "19.35%"
+  },
+  {
+    "School": "University of Virginia",
+    "USNWR Ranking Research": 31,
+    "USNWR Primary Care Ranking": 19,
+    "acceptance rate": "12.24%",
+    "Public/Private": "Public - VA",
+    "Median MCAT": 520,
+    "Median GPA": 3.93,
+    "% of students OOS": "52.56%"
+  },
+  {
+    "School": "Alabama - Birmingham",
+    "USNWR Ranking Research": 32,
+    "USNWR Primary Care Ranking": 21,
+    "acceptance rate": "6.16%",
+    "Public/Private": "Public - AL",
+    "Median MCAT": 510,
+    "Median GPA": 3.86,
+    "% of students OOS": "14.36%"
+  },
+  {
+    "School": "Boston University",
+    "USNWR Ranking Research": 33,
+    "USNWR Primary Care Ranking": 44,
+    "acceptance rate": "5.83%",
+    "Public/Private": "Private-MA",
+    "Median MCAT": 518,
+    "Median GPA": 3.86,
+    "% of students OOS": "78.29%"
+  },
+  {
+    "School": "Ohio State",
+    "USNWR Ranking Research": 33,
+    "USNWR Primary Care Ranking": 28,
+    "acceptance rate": "5.33%",
+    "Public/Private": "Public - OH",
+    "Median MCAT": 517,
+    "Median GPA": 3.92,
+    "% of students OOS": "46.83%"
+  },
+  {
+    "School": "Wisconsin",
+    "USNWR Ranking Research": 33,
+    "USNWR Primary Care Ranking": 12,
+    "acceptance rate": "5.79%",
+    "Public/Private": "Public - WI",
+    "Median MCAT": 513,
+    "Median GPA": 3.8,
+    "% of students OOS": "23.39%"
+  },
+  {
+    "School": "Brown - Alpert",
+    "USNWR Ranking Research": 36,
+    "USNWR Primary Care Ranking": 19,
+    "acceptance rate": "3.17%",
+    "Public/Private": "Private-RI",
+    "Median MCAT": 517,
+    "Median GPA": 3.83,
+    "% of students OOS": "89.58%"
+  },
+  {
+    "School": "University of Florida",
+    "USNWR Ranking Research": 36,
+    "USNWR Primary Care Ranking": 51,
+    "acceptance rate": "5.04%",
+    "Public/Private": "Public - FL",
+    "Median MCAT": 515,
+    "Median GPA": 3.9,
+    "% of students OOS": "17.04%"
+  },
+  {
+    "School": "Rochester",
+    "USNWR Ranking Research": 36,
+    "USNWR Primary Care Ranking": 14,
+    "acceptance rate": "5.82%",
+    "Public/Private": "Private-NY",
+    "Median MCAT": 518,
+    "Median GPA": 3.84,
+    "% of students OOS": "67.65%"
+  },
+  {
+    "School": "Albert Einstein",
+    "USNWR Ranking Research": 39,
+    "USNWR Primary Care Ranking": 69,
+    "acceptance rate": "4.42%",
+    "Public/Private": "Private - NY",
+    "Median MCAT": 515,
+    "Median GPA": 3.81,
+    "% of students OOS": "49.73%"
+  },
+  {
+    "School": "Iowa",
+    "USNWR Ranking Research": 39,
+    "USNWR Primary Care Ranking": 22,
+    "acceptance rate": "7.06%",
+    "Public/Private": "Public - IA",
+    "Median MCAT": 515,
+    "Median GPA": 3.86,
+    "% of students OOS": "31.58%"
+  },
+  {
+    "School": "Utah",
+    "USNWR Ranking Research": 41,
+    "USNWR Primary Care Ranking": 32,
+    "acceptance rate": "5.66%",
+    "Public/Private": "Public - UT",
+    "Median MCAT": 513,
+    "Median GPA": 3.82,
+    "% of students OOS": "28.80%"
+  },
+  {
+    "School": "Cincinnati",
+    "USNWR Ranking Research": 42,
+    "USNWR Primary Care Ranking": 59,
+    "acceptance rate": "7.62%",
+    "Public/Private": "Public - OH",
+    "Median MCAT": 517,
+    "Median GPA": 3.84,
+    "% of students OOS": "53.30%"
+  },
+  {
+    "School": "Indiana",
+    "USNWR Ranking Research": 42,
+    "USNWR Primary Care Ranking": 36,
+    "acceptance rate": "9.75%",
+    "Public/Private": "Public - IN",
+    "Median MCAT": 512,
+    "Median GPA": 3.84,
+    "% of students OOS": "20.56%"
+  },
+  {
+    "School": "Minnesota",
+    "USNWR Ranking Research": 42,
+    "USNWR Primary Care Ranking": 5,
+    "acceptance rate": "5.63%",
+    "Public/Private": "Public - MN",
+    "Median MCAT": 513,
+    "Median GPA": 3.81,
+    "% of students OOS": "20.42%"
+  },
+  {
+    "School": "Dartmouth (Geisel)",
+    "USNWR Ranking Research": 45,
+    "USNWR Primary Care Ranking": 24,
+    "acceptance rate": "3.07%",
+    "Public/Private": "Private-NH",
+    "Median MCAT": 516,
+    "Median GPA": 3.77,
+    "% of students OOS": "94.57%"
+  },
+  {
+    "School": "Massachusetts",
+    "USNWR Ranking Research": 45,
+    "USNWR Primary Care Ranking": 10,
+    "acceptance rate": "8.72%",
+    "Public/Private": "Public - MA",
+    "Median MCAT": 516,
+    "Median GPA": 3.82,
+    "% of students OOS": "30.86%"
+  },
+  {
+    "School": "Miami",
+    "USNWR Ranking Research": 45,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "4.10%",
+    "Public/Private": "Private-FL",
+    "Median MCAT": 514,
+    "Median GPA": 3.78,
+    "% of students OOS": "50.98%"
+  },
+  {
+    "School": "UC Davis",
+    "USNWR Ranking Research": 48,
+    "USNWR Primary Care Ranking": 11,
+    "acceptance rate": "3.51%",
+    "Public/Private": "Public - CA",
+    "Median MCAT": 512,
+    "Median GPA": 3.69,
+    "% of students OOS": "3.36%"
+  },
+  {
+    "School": "UC Irvine",
+    "USNWR Ranking Research": 48,
+    "USNWR Primary Care Ranking": 41,
+    "acceptance rate": "3.82%",
+    "Public/Private": "Public - CA",
+    "Median MCAT": 516,
+    "Median GPA": 3.85,
+    "% of students OOS": "9.62%"
+  },
+  {
+    "School": "Wake Forest",
+    "USNWR Ranking Research": 48,
+    "USNWR Primary Care Ranking": 80,
+    "acceptance rate": "3.11%",
+    "Public/Private": "Private - NC",
+    "Median MCAT": 513,
+    "Median GPA": 3.76,
+    "% of students OOS": "71.72%"
+  },
+  {
+    "School": "USF Health Morsani College of Medicine",
+    "USNWR Ranking Research": 48,
+    "USNWR Primary Care Ranking": 69,
+    "acceptance rate": "7.42%",
+    "Public/Private": "Public - FL",
+    "Median MCAT": 516,
+    "Median GPA": 3.8,
+    "% of students OOS": ""
+  },
+  {
+    "School": "UT San Antonio",
+    "USNWR Ranking Research": 52,
+    "USNWR Primary Care Ranking": 46,
+    "acceptance rate": "7.39%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 517,
+    "Median GPA": 3.88,
+    "% of students OOS": "12.74%"
+  },
+  {
+    "School": "McGovern Medical School at UT Houston",
+    "USNWR Ranking Research": 53,
+    "USNWR Primary Care Ranking": 84,
+    "acceptance rate": "7.43%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 513,
+    "Median GPA": 3.88,
+    "% of students OOS": "4.58%"
+  },
+  {
+    "School": "Nebraska",
+    "USNWR Ranking Research": 54,
+    "USNWR Primary Care Ranking": 6,
+    "acceptance rate": "10.63%",
+    "Public/Private": "Public - NE",
+    "Median MCAT": 513,
+    "Median GPA": 3.9,
+    "% of students OOS": "14.29%"
+  },
+  {
+    "School": "Georgetown",
+    "USNWR Ranking Research": 55,
+    "USNWR Primary Care Ranking": 89,
+    "acceptance rate": "2.70%",
+    "Public/Private": "Private - DC",
+    "Median MCAT": 513,
+    "Median GPA": 3.79,
+    "% of students OOS": "98.50%"
+  },
+  {
+    "School": "Illinois",
+    "USNWR Ranking Research": 55,
+    "USNWR Primary Care Ranking": 67,
+    "acceptance rate": "10.79%",
+    "Public/Private": "Public - IL",
+    "Median MCAT": 513,
+    "Median GPA": 3.76,
+    "% of students OOS": "20.65%"
+  },
+  {
+    "School": "Jefferson (Sidney Kimmel)",
+    "USNWR Ranking Research": 55,
+    "USNWR Primary Care Ranking": 59,
+    "acceptance rate": "4.18%",
+    "Public/Private": "Private - PA",
+    "Median MCAT": 514,
+    "Median GPA": 3.8,
+    "% of students OOS": "66.30%"
+  },
+  {
+    "School": "Stony Brook",
+    "USNWR Ranking Research": 55,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "7.92%",
+    "Public/Private": "Public - NY",
+    "Median MCAT": 516,
+    "Median GPA": 3.86,
+    "% of students OOS": "36.03%"
+  },
+  {
+    "School": "Tufts",
+    "USNWR Ranking Research": 55,
+    "USNWR Primary Care Ranking": 51,
+    "acceptance rate": "4.18%",
+    "Public/Private": "Private - MA",
+    "Median MCAT": 515,
+    "Median GPA": 3.78,
+    "% of students OOS": "73.00%"
+  },
+  {
+    "School": "George Washington Univ",
+    "USNWR Ranking Research": 60,
+    "USNWR Primary Care Ranking": 78,
+    "acceptance rate": "2.79%",
+    "Public/Private": "Private - DC",
+    "Median MCAT": 513,
+    "Median GPA": 3.78,
+    "% of students OOS": "98.89%"
+  },
+  {
+    "School": "Temple (LKSOM)",
+    "USNWR Ranking Research": 61,
+    "USNWR Primary Care Ranking": 84,
+    "acceptance rate": "5.34%",
+    "Public/Private": "Private - PA",
+    "Median MCAT": 513,
+    "Median GPA": 3.77,
+    "% of students OOS": "58.50%"
+  },
+  {
+    "School": "U Connecticut",
+    "USNWR Ranking Research": 61,
+    "USNWR Primary Care Ranking": 44,
+    "acceptance rate": "6.38%",
+    "Public/Private": "Public - CT",
+    "Median MCAT": 513,
+    "Median GPA": 3.82,
+    "% of students OOS": "20.75%"
+  },
+  {
+    "School": "Virginia Commonwealth University",
+    "USNWR Ranking Research": 61,
+    "USNWR Primary Care Ranking": 51,
+    "acceptance rate": "5.05%",
+    "Public/Private": "Public - VA",
+    "Median MCAT": 513,
+    "Median GPA": 3.82,
+    "% of students OOS": "50.00%"
+  },
+  {
+    "School": "Hawaii",
+    "USNWR Ranking Research": 64,
+    "USNWR Primary Care Ranking": 24,
+    "acceptance rate": "4.64%",
+    "Public/Private": "Public - HI",
+    "Median MCAT": 513,
+    "Median GPA": 3.84,
+    "% of students OOS": "13.89%"
+  },
+  {
+    "School": "Rush",
+    "USNWR Ranking Research": 64,
+    "USNWR Primary Care Ranking": 69,
+    "acceptance rate": "4.11%",
+    "Public/Private": "Private-IL",
+    "Median MCAT": 511,
+    "Median GPA": 3.67,
+    "% of students OOS": "70.83%"
+  },
+  {
+    "School": "Hofstra",
+    "USNWR Ranking Research": 66,
+    "USNWR Primary Care Ranking": 76,
+    "acceptance rate": "8.28%",
+    "Public/Private": "Private - NY",
+    "Median MCAT": 518,
+    "Median GPA": 3.84,
+    "% of students OOS": "45.45%"
+  },
+  {
+    "School": "Rutgers NJMS",
+    "USNWR Ranking Research": 66,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "6.61%",
+    "Public/Private": "Public - NJ",
+    "Median MCAT": 515,
+    "Median GPA": 3.82,
+    "% of students OOS": "16.29%"
+  },
+  {
+    "School": "University of Vermont (Larner)",
+    "USNWR Ranking Research": 66,
+    "USNWR Primary Care Ranking": 24,
+    "acceptance rate": "5.59%",
+    "Public/Private": "Public - VT",
+    "Median MCAT": 512,
+    "Median GPA": 3.7,
+    "% of students OOS": "78.99%"
+  },
+  {
+    "School": "Wayne State",
+    "USNWR Ranking Research": 66,
+    "USNWR Primary Care Ranking": 89,
+    "acceptance rate": "7.58%",
+    "Public/Private": "Public - MI",
+    "Median MCAT": 513,
+    "Median GPA": 3.86,
+    "% of students OOS": "30.56%"
+  },
+  {
+    "School": "Arizona- Tuscon",
+    "USNWR Ranking Research": 70,
+    "USNWR Primary Care Ranking": 58,
+    "acceptance rate": "2.26%",
+    "Public/Private": "Public - AZ",
+    "Median MCAT": 510,
+    "Median GPA": 3.79,
+    "% of students OOS": "23.33%"
+  },
+  {
+    "School": "Kentucky",
+    "USNWR Ranking Research": 70,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "9.58%",
+    "Public/Private": "Public - KY",
+    "Median MCAT": 508,
+    "Median GPA": 3.81,
+    "% of students OOS": "20.48%"
+  },
+  {
+    "School": "Rutgers RWJMS",
+    "USNWR Ranking Research": 70,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "5.70%",
+    "Public/Private": "Public - NJ",
+    "Median MCAT": 514,
+    "Median GPA": 3.75,
+    "% of students OOS": "22.99%"
+  },
+  {
+    "School": "Saint Louis University",
+    "USNWR Ranking Research": 70,
+    "USNWR Primary Care Ranking": 46,
+    "acceptance rate": "10.08%",
+    "Public/Private": "Private-MO",
+    "Median MCAT": 514,
+    "Median GPA": 3.91,
+    "% of students OOS": "87.98%"
+  },
+  {
+    "School": "Oklahoma",
+    "USNWR Ranking Research": 74,
+    "USNWR Primary Care Ranking": 51,
+    "acceptance rate": "7.36%",
+    "Public/Private": "Public - OK",
+    "Median MCAT": 511,
+    "Median GPA": 3.85,
+    "% of students OOS": "6.67%"
+  },
+  {
+    "School": "Louisville",
+    "USNWR Ranking Research": 75,
+    "USNWR Primary Care Ranking": 74,
+    "acceptance rate": "6.36%",
+    "Public/Private": "Public - KY",
+    "Median MCAT": 509,
+    "Median GPA": 3.77,
+    "% of students OOS": "24.69%"
+  },
+  {
+    "School": "MCG Augusta",
+    "USNWR Ranking Research": 75,
+    "USNWR Primary Care Ranking": 91,
+    "acceptance rate": "13.51%",
+    "Public/Private": "Public - GA",
+    "Median MCAT": 513,
+    "Median GPA": 3.82,
+    "% of students OOS": "1.74%"
+  },
+  {
+    "School": "Missouri - Columbia",
+    "USNWR Ranking Research": 75,
+    "USNWR Primary Care Ranking": 46,
+    "acceptance rate": "6.32%",
+    "Public/Private": "Public - MO",
+    "Median MCAT": 509,
+    "Median GPA": 3.86,
+    "% of students OOS": "16.96%"
+  },
+  {
+    "School": "Texas A&M",
+    "USNWR Ranking Research": 75,
+    "USNWR Primary Care Ranking": 84,
+    "acceptance rate": "7.46%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 513,
+    "Median GPA": 3.84,
+    "% of students OOS": "14.29%"
+  },
+  {
+    "School": "Kansas",
+    "USNWR Ranking Research": 75,
+    "USNWR Primary Care Ranking": 9,
+    "acceptance rate": "8.57%",
+    "Public/Private": "Public - KS",
+    "Median MCAT": 511,
+    "Median GPA": 3.88,
+    "% of students OOS": "11.85%"
+  },
+  {
+    "School": "Arkansas",
+    "USNWR Ranking Research": 75,
+    "USNWR Primary Care Ranking": 39,
+    "acceptance rate": "20.23%",
+    "Public/Private": "Public - AK",
+    "Median MCAT": 508,
+    "Median GPA": 3.77,
+    "% of students OOS": "4.76%"
+  },
+  {
+    "School": "Buffalo",
+    "USNWR Ranking Research": 81,
+    "USNWR Primary Care Ranking": 91,
+    "acceptance rate": "7.89%",
+    "Public/Private": "Public - NY",
+    "Median MCAT": 512,
+    "Median GPA": 3.75,
+    "% of students OOS": "12.50%"
+  },
+  {
+    "School": "New Mexico",
+    "USNWR Ranking Research": 81,
+    "USNWR Primary Care Ranking": 28,
+    "acceptance rate": "7.14%",
+    "Public/Private": "Public - NM",
+    "Median MCAT": 505,
+    "Median GPA": 3.8,
+    "% of students OOS": "6.80%"
+  },
+  {
+    "School": "Missouri - Kansas City",
+    "USNWR Ranking Research": 83,
+    "USNWR Primary Care Ranking": 64,
+    "acceptance rate": "12.89%",
+    "Public/Private": "Public-MO",
+    "Median MCAT": 509,
+    "Median GPA": 3.89,
+    "% of students OOS": "36.22%"
+  },
+  {
+    "School": "Virginia Tech",
+    "USNWR Ranking Research": 83,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "2.33%",
+    "Public/Private": "Public - VA",
+    "Median MCAT": 512,
+    "Median GPA": 3.57,
+    "% of students OOS": "75.00%"
+  },
+  {
+    "School": "West Virginia University",
+    "USNWR Ranking Research": 83,
+    "USNWR Primary Care Ranking": 67,
+    "acceptance rate": "3.27%",
+    "Public/Private": "Public - WV",
+    "Median MCAT": 509,
+    "Median GPA": 3.88,
+    "% of students OOS": "45.54%"
+  },
+  {
+    "School": "Drexel",
+    "USNWR Ranking Research": 86,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "7.07%",
+    "Public/Private": "Private-PA",
+    "Median MCAT": 512,
+    "Median GPA": 3.75,
+    "% of students OOS": "75.39%"
+  },
+  {
+    "School": "UCF (Central Florida)",
+    "USNWR Ranking Research": 86,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "6.54%",
+    "Public/Private": "Public - FL",
+    "Median MCAT": 514,
+    "Median GPA": 3.88,
+    "% of students OOS": "33.33%"
+  },
+  {
+    "School": "Eastern Virginia Medical School (EVMS)",
+    "USNWR Ranking Research": 88,
+    "USNWR Primary Care Ranking": 46,
+    "acceptance rate": "5.15%",
+    "Public/Private": "Public - VA",
+    "Median MCAT": 513,
+    "Median GPA": 3.71,
+    "% of students OOS": "46.36%"
+  },
+  {
+    "School": "SUNY Upstate",
+    "USNWR Ranking Research": 88,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "9.45%",
+    "Public/Private": "Public - NY",
+    "Median MCAT": 513,
+    "Median GPA": 3.77,
+    "% of students OOS": ""
+  },
+  {
+    "School": "Nevada Reno",
+    "USNWR Ranking Research": 90,
+    "USNWR Primary Care Ranking": 84,
+    "acceptance rate": "6.15%",
+    "Public/Private": "Public - NV",
+    "Median MCAT": 509,
+    "Median GPA": 3.82,
+    "% of students OOS": "8.57%"
+  },
+  {
+    "School": "NYMC",
+    "USNWR Ranking Research": 90,
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "4.29%",
+    "Public/Private": "Private-NY",
+    "Median MCAT": 513,
+    "Median GPA": 3.72,
+    "% of students OOS": "47.62%"
+  },
+  {
+    "School": "U South Carolina",
+    "USNWR Ranking Research": 90,
+    "USNWR Primary Care Ranking": 76,
+    "acceptance rate": "6.15%",
+    "Public/Private": "Public -SC",
+    "Median MCAT": 508,
+    "Median GPA": 3.79,
+    "% of students OOS": "26.00%"
+  },
+  {
+    "School": "Cooper",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "4.03%",
+    "Public/Private": "Public - NJ",
+    "Median MCAT": 512,
+    "Median GPA": 3.79,
+    "% of students OOS": "27.10%"
+  },
+  {
+    "School": "East Carolina (Brody ECU)",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 28,
+    "acceptance rate": "13.80%",
+    "Public/Private": "Public - NC",
+    "Median MCAT": 509,
+    "Median GPA": 3.71,
+    "% of students OOS": "0.00%"
+  },
+  {
+    "School": "East Tennessee",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 64,
+    "acceptance rate": "4.64%",
+    "Public/Private": "Public-TN",
+    "Median MCAT": 508,
+    "Median GPA": 3.81,
+    "% of students OOS": "22.22%"
+  },
+  {
+    "School": "FAU",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "4.11%",
+    "Public/Private": "Public - FL",
+    "Median MCAT": 513,
+    "Median GPA": 3.8,
+    "% of students OOS": "33.85%"
+  },
+  {
+    "School": "Florida International University",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "6.85%",
+    "Public/Private": "Public-FL",
+    "Median MCAT": 511,
+    "Median GPA": 3.79,
+    "% of students OOS": "18.33%"
+  },
+  {
+    "School": "Florida State University",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 79,
+    "acceptance rate": "2.08%",
+    "Public/Private": "Public - FL",
+    "Median MCAT": 508,
+    "Median GPA": 3.76,
+    "% of students OOS": "1.67%"
+  },
+  {
+    "School": "Frank H Netter Quinnipiac",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "3.84%",
+    "Public/Private": "Private-CT",
+    "Median MCAT": 514,
+    "Median GPA": 3.71,
+    "% of students OOS": "60.20%"
+  },
+  {
+    "School": "Howard",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 84,
+    "acceptance rate": "2.92%",
+    "Public/Private": "Private - DC",
+    "Median MCAT": 505,
+    "Median GPA": 3.53,
+    "% of students OOS": "92.50%"
+  },
+  {
+    "School": "LSU Shreveport",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "8.89%",
+    "Public/Private": "Public - LO",
+    "Median MCAT": 506,
+    "Median GPA": 3.77,
+    "% of students OOS": ""
+  },
+  {
+    "School": "Marshall",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "5.16%",
+    "Public/Private": "Public - WV",
+    "Median MCAT": 502,
+    "Median GPA": 3.7,
+    "% of students OOS": "13.92%"
+  },
+  {
+    "School": "Tennessee",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 80,
+    "acceptance rate": "12.05%",
+    "Public/Private": "Public - TN",
+    "Median MCAT": 513,
+    "Median GPA": 3.82,
+    "% of students OOS": "9.41%"
+  },
+  {
+    "School": "Texas Tech Lubbock",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 69,
+    "acceptance rate": "9.07%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 510,
+    "Median GPA": 3.87,
+    "% of students OOS": "8.89%"
+  },
+  {
+    "School": "Toledo",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "7.62%",
+    "Public/Private": "Public - OH",
+    "Median MCAT": 510,
+    "Median GPA": 3.76,
+    "% of students OOS": "29.71%"
+  },
+  {
+    "School": "UC Riverside",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "3.37%",
+    "Public/Private": "Public - CA",
+    "Median MCAT": 508,
+    "Median GPA": 3.59,
+    "% of students OOS": "1.43%"
+  },
+  {
+    "School": "TCU & University of North Texas Health Science Center",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 57,
+    "acceptance rate": "11.16%",
+    "Public/Private": "Public-TX",
+    "Median MCAT": 510,
+    "Median GPA": 3.71,
+    "% of students OOS": "26.67%"
+  },
+  {
+    "School": "Wright State Boonshoft",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 80,
+    "acceptance rate": "2.84%",
+    "Public/Private": "Public - OH",
+    "Median MCAT": 508,
+    "Median GPA": 3.73,
+    "% of students OOS": "32.50%"
+  },
+  {
+    "School": "Loyola University Chicago Stritch School of Medicine",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "2.88%",
+    "Public/Private": "Private-IL",
+    "Median MCAT": 512,
+    "Median GPA": 3.76,
+    "% of students OOS": "70.30%"
+  },
+  {
+    "School": "MCW (unranked 2021)",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "9.73%",
+    "Public/Private": "Private - WI",
+    "Median MCAT": 511,
+    "Median GPA": 3.73,
+    "% of students OOS": "45.20%"
+  },
+  {
+    "School": "Michigan State (unranked 2021)",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "4.11%",
+    "Public/Private": "Public - MI",
+    "Median MCAT": 509,
+    "Median GPA": 3.76,
+    "% of students OOS": "28.95%"
+  },
+  {
+    "School": "MUSC",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "15.45%",
+    "Public/Private": "Public - SC",
+    "Median MCAT": 510,
+    "Median GPA": 3.83,
+    "% of students OOS": "6.43%"
+  },
+  {
+    "School": "North Dakota (unranked 2021)",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "20.55%",
+    "Public/Private": "Public - ND",
+    "Median MCAT": 507,
+    "Median GPA": 3.8,
+    "% of students OOS": "45.45%"
+  },
+  {
+    "School": "South Dakota (unranked 2021)",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "10.32%",
+    "Public/Private": "Public - SD",
+    "Median MCAT": 508,
+    "Median GPA": 3.87,
+    "% of students OOS": "8.96%"
+  },
+  {
+    "School": "Texas Tech El Paso (unranked 2021)",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "5.67%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 512,
+    "Median GPA": 3.89,
+    "% of students OOS": "3.00%"
+  },
+  {
+    "School": "UTMB (unranked 2020)",
+    "USNWR Ranking Research": "unranked",
+    "USNWR Primary Care Ranking": "unranked",
+    "acceptance rate": "10.61%",
+    "Public/Private": "Public - TX",
+    "Median MCAT": 511,
+    "Median GPA": 3.88,
+    "% of students OOS": "3.04%"
+  },
+  {
+    "School": "Midwestern University Chicago",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 17,
+    "acceptance rate": "11.69%",
+    "Public/Private": "Private - IL",
+    "Median MCAT": 507,
+    "Median GPA": 3.65,
+    "% of students OOS": "52.56%"
+  },
+  {
+    "School": "LECOM",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": 80,
+    "acceptance rate": "7.31%",
+    "Public/Private": "Private - PA",
+    "Median MCAT": 503,
+    "Median GPA": 3.68,
+    "% of students OOS": "58.50%"
+  },
+  {
+    "School": "VCOM",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "14.81%",
+    "Public/Private": "Private - VA",
+    "Median MCAT": 501,
+    "Median GPA": 3.65,
+    "% of students OOS": "59.55%"
+  },
+  {
+    "School": "Midwestern Arizona",
+    "USNWR Ranking Research": "93-123",
+    "USNWR Primary Care Ranking": "93-123",
+    "acceptance rate": "15.15%",
+    "Public/Private": "Private - AZ",
+    "Median MCAT": 507,
+    "Median GPA": 3.54,
+    "% of students OOS": "63.49%"
+  }
+]
