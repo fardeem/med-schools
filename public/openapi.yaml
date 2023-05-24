@@ -4,7 +4,7 @@ info:
   description: Get a list of med schools and their acceptance rate, average GPA, and average MCAT score, state, etc.
   version: "v1"
 servers:
-  - url: http://localhost:3000
+  - url: https://med-schools.fardeem.com/
 paths:
   /api/schools:
     post:
