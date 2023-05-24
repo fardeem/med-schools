@@ -7,7 +7,8 @@
     "Public/Private": "Private - MA",
     "Median MCAT": 520,
     "Median GPA": 3.94,
-    "% of students OOS": "90.30%"
+    "% of students OOS": "90.30%",
+    "state": "MA"
   },
   {
     "School": "NYU",
@@ -17,7 +18,8 @@
     "Public/Private": "Private - NY",
     "Median MCAT": 522,
     "Median GPA": 3.95,
-    "% of students OOS": "81.19%"
+    "% of students OOS": "81.19%",
+    "state": "NY"
   },
   {
     "School": "Duke",
@@ -27,7 +29,8 @@
     "Public/Private": "Private-NC",
     "Median MCAT": 519,
     "Median GPA": 3.89,
-    "% of students OOS": "75.97%"
+    "% of students OOS": "75.97%",
+    "state": "NC"
   },
   {
     "School": "Columbia",
@@ -37,7 +40,8 @@
     "Public/Private": "Private - NY",
     "Median MCAT": 522,
     "Median GPA": 3.92,
-    "% of students OOS": "86.23%"
+    "% of students OOS": "86.23%",
+    "state": "NY"
   },
   {
     "School": "Stanford",
@@ -47,7 +51,8 @@
     "Public/Private": "Private - CA",
     "Median MCAT": 519,
     "Median GPA": 3.89,
-    "% of students OOS": "72.22%"
+    "% of students OOS": "72.22%",
+    "state": "CA"
   },
   {
     "School": "UC San Franscisco",
@@ -57,7 +62,8 @@
     "Public/Private": "Public - CA",
     "Median MCAT": 518,
     "Median GPA": 3.86,
-    "% of students OOS": "24.16%"
+    "% of students OOS": "24.16%",
+    "state": "CA"
   },
   {
     "School": "Johns Hopkins",
@@ -67,7 +73,8 @@
     "Public/Private": "Private - MD",
     "Median MCAT": 521,
     "Median GPA": 3.95,
-    "% of students OOS": "91.53%"
+    "% of students OOS": "91.53%",
+    "state": "MD"
   },
   {
     "School": "University of Washington",
@@ -77,7 +84,8 @@
     "Public/Private": "Public - WA",
     "Median MCAT": 512,
     "Median GPA": 3.74,
-    "% of students OOS": "6.67%"
+    "% of students OOS": "6.67%",
+    "state": "WA"
   },
   {
     "School": "University of Pennsylvania (Perelman)",
@@ -87,7 +95,8 @@
     "Public/Private": "Private-PA",
     "Median MCAT": 522,
     "Median GPA": 3.94,
-    "% of students OOS": "89.47%"
+    "% of students OOS": "89.47%",
+    "state": "PA"
   },
   {
     "School": "Yale",
@@ -97,7 +106,8 @@
     "Public/Private": "Private - CT",
     "Median MCAT": 521,
     "Median GPA": 3.91,
-    "% of students OOS": "85.58%"
+    "% of students OOS": "85.58%",
+    "state": "CT"
   },
   {
     "School": "Mayo (Alix)",
@@ -107,7 +117,8 @@
     "Public/Private": "Private - MN",
     "Median MCAT": 520,
     "Median GPA": 3.94,
-    "% of students OOS": "81.55%"
+    "% of students OOS": "81.55%",
+    "state": "MN"
   },
   {
     "School": "Wash U St. Louis",
@@ -117,7 +128,8 @@
     "Public/Private": "Private - MO",
     "Median MCAT": 521,
     "Median GPA": 3.94,
-    "% of students OOS": "79.84%"
+    "% of students OOS": "79.84%",
+    "state": "MO"
   },
   {
     "School": "University of Pittsburgh",
@@ -127,7 +139,8 @@
     "Public/Private": "Private-PA",
     "Median MCAT": 518,
     "Median GPA": 3.86,
-    "% of students OOS": "63.09%"
+    "% of students OOS": "63.09%",
+    "state": "PA"
   },
   {
     "School": "Vanderbilt",
@@ -137,7 +150,8 @@
     "Public/Private": "Private-TN",
     "Median MCAT": 521,
     "Median GPA": 3.94,
-    "% of students OOS": "76.34%"
+    "% of students OOS": "76.34%",
+    "state": "TN"
   },
   {
     "School": "Michigan",
@@ -147,7 +161,8 @@
     "Public/Private": "Public - WI",
     "Median MCAT": 518,
     "Median GPA": 3.87,
-    "% of students OOS": "57.14%"
+    "% of students OOS": "57.14%",
+    "state": "WI"
   },
   {
     "School": "Northwestern Feinberg",
@@ -157,7 +172,8 @@
     "Public/Private": "Private-IL",
     "Median MCAT": 520,
     "Median GPA": 3.91,
-    "% of students OOS": "74.38%"
+    "% of students OOS": "74.38%",
+    "state": "IL"
   },
   {
     "School": "Icahn Mt. Sinai",
@@ -167,7 +183,8 @@
     "Public/Private": "Private - NY",
     "Median MCAT": 519,
     "Median GPA": 3.87,
-    "% of students OOS": "72.86%"
+    "% of students OOS": "72.86%",
+    "state": "NY"
   },
   {
     "School": "University of Chicago Pritzker",
@@ -177,7 +194,8 @@
     "Public/Private": "Private - IL",
     "Median MCAT": 521,
     "Median GPA": 3.93,
-    "% of students OOS": "82.22%"
+    "% of students OOS": "82.22%",
+    "state": "IL"
   },
   {
     "School": "Cornell (Weill)",
@@ -187,7 +205,8 @@
     "Public/Private": "Private-NY",
     "Median MCAT": 519,
     "Median GPA": 3.91,
-    "% of students OOS": "79.25%"
+    "% of students OOS": "79.25%",
+    "state": "NY"
   },
   {
     "School": "UC San Diego",
@@ -197,7 +216,8 @@
     "Public/Private": "Public - CA",
     "Median MCAT": 517,
     "Median GPA": 3.83,
-    "% of students OOS": "12.78%"
+    "% of students OOS": "12.78%",
+    "state": "CA"
   },
   {
     "School": "UCLA",
@@ -207,7 +227,8 @@
     "Public/Private": "Public - CA",
     "Median MCAT": 516,
     "Median GPA": 3.84,
-    "% of students OOS": "40.00%"
+    "% of students OOS": "40.00%",
+    "state": "CA"
   },
   {
     "School": "Baylor",
@@ -217,7 +238,8 @@
     "Public/Private": "Private-TX",
     "Median MCAT": 518,
     "Median GPA": 3.93,
-    "% of students OOS": "15.96%"
+    "% of students OOS": "15.96%",
+    "state": "TX"
   },
   {
     "School": "Emory",
@@ -227,7 +249,8 @@
     "Public/Private": "Private_GA",
     "Median MCAT": 517,
     "Median GPA": 3.8,
-    "% of students OOS": "67.65%"
+    "% of students OOS": "67.65%",
+    "state": ""
   },
   {
     "School": "University of North Carolina",
@@ -237,7 +260,8 @@
     "Public/Private": "Public - NC",
     "Median MCAT": 515,
     "Median GPA": 3.78,
-    "% of students OOS": "17.62%"
+    "% of students OOS": "17.62%",
+    "state": "NC"
   },
   {
     "School": "Case Western Reserve",
@@ -247,7 +271,8 @@
     "Public/Private": "Private-OH",
     "Median MCAT": 519,
     "Median GPA": 3.86,
-    "% of students OOS": "84.19%"
+    "% of students OOS": "84.19%",
+    "state": "OH"
   },
   {
     "School": "UT Southwestern",
@@ -257,7 +282,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 518,
     "Median GPA": 3.9,
-    "% of students OOS": "15.79%"
+    "% of students OOS": "15.79%",
+    "state": "TX"
   },
   {
     "School": "Colorado",
@@ -267,7 +293,8 @@
     "Public/Private": "Public - CO",
     "Median MCAT": 515,
     "Median GPA": 3.83,
-    "% of students OOS": "57.42%"
+    "% of students OOS": "57.42%",
+    "state": "CO"
   },
   {
     "School": "U Maryland",
@@ -277,7 +304,8 @@
     "Public/Private": "Public - MD",
     "Median MCAT": 514,
     "Median GPA": 3.83,
-    "% of students OOS": "28.29%"
+    "% of students OOS": "28.29%",
+    "state": "MD"
   },
   {
     "School": "Oregon",
@@ -287,7 +315,8 @@
     "Public/Private": "Public - OR",
     "Median MCAT": 512,
     "Median GPA": 3.77,
-    "% of students OOS": "21.25%"
+    "% of students OOS": "21.25%",
+    "state": "OR"
   },
   {
     "School": "USC - Keck",
@@ -297,7 +326,8 @@
     "Public/Private": "Private - CA",
     "Median MCAT": 517,
     "Median GPA": 3.76,
-    "% of students OOS": "19.35%"
+    "% of students OOS": "19.35%",
+    "state": "CA"
   },
   {
     "School": "University of Virginia",
@@ -307,7 +337,8 @@
     "Public/Private": "Public - VA",
     "Median MCAT": 520,
     "Median GPA": 3.93,
-    "% of students OOS": "52.56%"
+    "% of students OOS": "52.56%",
+    "state": "VA"
   },
   {
     "School": "Alabama - Birmingham",
@@ -317,7 +348,8 @@
     "Public/Private": "Public - AL",
     "Median MCAT": 510,
     "Median GPA": 3.86,
-    "% of students OOS": "14.36%"
+    "% of students OOS": "14.36%",
+    "state": "AL"
   },
   {
     "School": "Boston University",
@@ -327,7 +359,8 @@
     "Public/Private": "Private-MA",
     "Median MCAT": 518,
     "Median GPA": 3.86,
-    "% of students OOS": "78.29%"
+    "% of students OOS": "78.29%",
+    "state": "MA"
   },
   {
     "School": "Ohio State",
@@ -337,7 +370,8 @@
     "Public/Private": "Public - OH",
     "Median MCAT": 517,
     "Median GPA": 3.92,
-    "% of students OOS": "46.83%"
+    "% of students OOS": "46.83%",
+    "state": "OH"
   },
   {
     "School": "Wisconsin",
@@ -347,7 +381,8 @@
     "Public/Private": "Public - WI",
     "Median MCAT": 513,
     "Median GPA": 3.8,
-    "% of students OOS": "23.39%"
+    "% of students OOS": "23.39%",
+    "state": "WI"
   },
   {
     "School": "Brown - Alpert",
@@ -357,7 +392,8 @@
     "Public/Private": "Private-RI",
     "Median MCAT": 517,
     "Median GPA": 3.83,
-    "% of students OOS": "89.58%"
+    "% of students OOS": "89.58%",
+    "state": "RI"
   },
   {
     "School": "University of Florida",
@@ -367,7 +403,8 @@
     "Public/Private": "Public - FL",
     "Median MCAT": 515,
     "Median GPA": 3.9,
-    "% of students OOS": "17.04%"
+    "% of students OOS": "17.04%",
+    "state": "FL"
   },
   {
     "School": "Rochester",
@@ -377,7 +414,8 @@
     "Public/Private": "Private-NY",
     "Median MCAT": 518,
     "Median GPA": 3.84,
-    "% of students OOS": "67.65%"
+    "% of students OOS": "67.65%",
+    "state": "NY"
   },
   {
     "School": "Albert Einstein",
@@ -387,7 +425,8 @@
     "Public/Private": "Private - NY",
     "Median MCAT": 515,
     "Median GPA": 3.81,
-    "% of students OOS": "49.73%"
+    "% of students OOS": "49.73%",
+    "state": "NY"
   },
   {
     "School": "Iowa",
@@ -397,7 +436,8 @@
     "Public/Private": "Public - IA",
     "Median MCAT": 515,
     "Median GPA": 3.86,
-    "% of students OOS": "31.58%"
+    "% of students OOS": "31.58%",
+    "state": "IA"
   },
   {
     "School": "Utah",
@@ -407,7 +447,8 @@
     "Public/Private": "Public - UT",
     "Median MCAT": 513,
     "Median GPA": 3.82,
-    "% of students OOS": "28.80%"
+    "% of students OOS": "28.80%",
+    "state": "UT"
   },
   {
     "School": "Cincinnati",
@@ -417,7 +458,8 @@
     "Public/Private": "Public - OH",
     "Median MCAT": 517,
     "Median GPA": 3.84,
-    "% of students OOS": "53.30%"
+    "% of students OOS": "53.30%",
+    "state": "OH"
   },
   {
     "School": "Indiana",
@@ -427,7 +469,8 @@
     "Public/Private": "Public - IN",
     "Median MCAT": 512,
     "Median GPA": 3.84,
-    "% of students OOS": "20.56%"
+    "% of students OOS": "20.56%",
+    "state": "IN"
   },
   {
     "School": "Minnesota",
@@ -437,7 +480,8 @@
     "Public/Private": "Public - MN",
     "Median MCAT": 513,
     "Median GPA": 3.81,
-    "% of students OOS": "20.42%"
+    "% of students OOS": "20.42%",
+    "state": "MN"
   },
   {
     "School": "Dartmouth (Geisel)",
@@ -447,7 +491,8 @@
     "Public/Private": "Private-NH",
     "Median MCAT": 516,
     "Median GPA": 3.77,
-    "% of students OOS": "94.57%"
+    "% of students OOS": "94.57%",
+    "state": "NH"
   },
   {
     "School": "Massachusetts",
@@ -457,7 +502,8 @@
     "Public/Private": "Public - MA",
     "Median MCAT": 516,
     "Median GPA": 3.82,
-    "% of students OOS": "30.86%"
+    "% of students OOS": "30.86%",
+    "state": "MA"
   },
   {
     "School": "Miami",
@@ -467,7 +513,8 @@
     "Public/Private": "Private-FL",
     "Median MCAT": 514,
     "Median GPA": 3.78,
-    "% of students OOS": "50.98%"
+    "% of students OOS": "50.98%",
+    "state": "FL"
   },
   {
     "School": "UC Davis",
@@ -477,7 +524,8 @@
     "Public/Private": "Public - CA",
     "Median MCAT": 512,
     "Median GPA": 3.69,
-    "% of students OOS": "3.36%"
+    "% of students OOS": "3.36%",
+    "state": "CA"
   },
   {
     "School": "UC Irvine",
@@ -487,7 +535,8 @@
     "Public/Private": "Public - CA",
     "Median MCAT": 516,
     "Median GPA": 3.85,
-    "% of students OOS": "9.62%"
+    "% of students OOS": "9.62%",
+    "state": "CA"
   },
   {
     "School": "Wake Forest",
@@ -497,7 +546,8 @@
     "Public/Private": "Private - NC",
     "Median MCAT": 513,
     "Median GPA": 3.76,
-    "% of students OOS": "71.72%"
+    "% of students OOS": "71.72%",
+    "state": "NC"
   },
   {
     "School": "USF Health Morsani College of Medicine",
@@ -507,7 +557,8 @@
     "Public/Private": "Public - FL",
     "Median MCAT": 516,
     "Median GPA": 3.8,
-    "% of students OOS": ""
+    "% of students OOS": "",
+    "state": "FL"
   },
   {
     "School": "UT San Antonio",
@@ -517,7 +568,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 517,
     "Median GPA": 3.88,
-    "% of students OOS": "12.74%"
+    "% of students OOS": "12.74%",
+    "state": "TX"
   },
   {
     "School": "McGovern Medical School at UT Houston",
@@ -527,7 +579,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 513,
     "Median GPA": 3.88,
-    "% of students OOS": "4.58%"
+    "% of students OOS": "4.58%",
+    "state": "TX"
   },
   {
     "School": "Nebraska",
@@ -537,7 +590,8 @@
     "Public/Private": "Public - NE",
     "Median MCAT": 513,
     "Median GPA": 3.9,
-    "% of students OOS": "14.29%"
+    "% of students OOS": "14.29%",
+    "state": "NE"
   },
   {
     "School": "Georgetown",
@@ -547,7 +601,8 @@
     "Public/Private": "Private - DC",
     "Median MCAT": 513,
     "Median GPA": 3.79,
-    "% of students OOS": "98.50%"
+    "% of students OOS": "98.50%",
+    "state": "DC"
   },
   {
     "School": "Illinois",
@@ -557,7 +612,8 @@
     "Public/Private": "Public - IL",
     "Median MCAT": 513,
     "Median GPA": 3.76,
-    "% of students OOS": "20.65%"
+    "% of students OOS": "20.65%",
+    "state": "IL"
   },
   {
     "School": "Jefferson (Sidney Kimmel)",
@@ -567,7 +623,8 @@
     "Public/Private": "Private - PA",
     "Median MCAT": 514,
     "Median GPA": 3.8,
-    "% of students OOS": "66.30%"
+    "% of students OOS": "66.30%",
+    "state": "PA"
   },
   {
     "School": "Stony Brook",
@@ -577,7 +634,8 @@
     "Public/Private": "Public - NY",
     "Median MCAT": 516,
     "Median GPA": 3.86,
-    "% of students OOS": "36.03%"
+    "% of students OOS": "36.03%",
+    "state": "NY"
   },
   {
     "School": "Tufts",
@@ -587,7 +645,8 @@
     "Public/Private": "Private - MA",
     "Median MCAT": 515,
     "Median GPA": 3.78,
-    "% of students OOS": "73.00%"
+    "% of students OOS": "73.00%",
+    "state": "MA"
   },
   {
     "School": "George Washington Univ",
@@ -597,7 +656,8 @@
     "Public/Private": "Private - DC",
     "Median MCAT": 513,
     "Median GPA": 3.78,
-    "% of students OOS": "98.89%"
+    "% of students OOS": "98.89%",
+    "state": "DC"
   },
   {
     "School": "Temple (LKSOM)",
@@ -607,7 +667,8 @@
     "Public/Private": "Private - PA",
     "Median MCAT": 513,
     "Median GPA": 3.77,
-    "% of students OOS": "58.50%"
+    "% of students OOS": "58.50%",
+    "state": "PA"
   },
   {
     "School": "U Connecticut",
@@ -617,7 +678,8 @@
     "Public/Private": "Public - CT",
     "Median MCAT": 513,
     "Median GPA": 3.82,
-    "% of students OOS": "20.75%"
+    "% of students OOS": "20.75%",
+    "state": "CT"
   },
   {
     "School": "Virginia Commonwealth University",
@@ -627,7 +689,8 @@
     "Public/Private": "Public - VA",
     "Median MCAT": 513,
     "Median GPA": 3.82,
-    "% of students OOS": "50.00%"
+    "% of students OOS": "50.00%",
+    "state": "VA"
   },
   {
     "School": "Hawaii",
@@ -637,7 +700,8 @@
     "Public/Private": "Public - HI",
     "Median MCAT": 513,
     "Median GPA": 3.84,
-    "% of students OOS": "13.89%"
+    "% of students OOS": "13.89%",
+    "state": "HI"
   },
   {
     "School": "Rush",
@@ -647,7 +711,8 @@
     "Public/Private": "Private-IL",
     "Median MCAT": 511,
     "Median GPA": 3.67,
-    "% of students OOS": "70.83%"
+    "% of students OOS": "70.83%",
+    "state": "IL"
   },
   {
     "School": "Hofstra",
@@ -657,7 +722,8 @@
     "Public/Private": "Private - NY",
     "Median MCAT": 518,
     "Median GPA": 3.84,
-    "% of students OOS": "45.45%"
+    "% of students OOS": "45.45%",
+    "state": "NY"
   },
   {
     "School": "Rutgers NJMS",
@@ -667,7 +733,8 @@
     "Public/Private": "Public - NJ",
     "Median MCAT": 515,
     "Median GPA": 3.82,
-    "% of students OOS": "16.29%"
+    "% of students OOS": "16.29%",
+    "state": "NJ"
   },
   {
     "School": "University of Vermont (Larner)",
@@ -677,7 +744,8 @@
     "Public/Private": "Public - VT",
     "Median MCAT": 512,
     "Median GPA": 3.7,
-    "% of students OOS": "78.99%"
+    "% of students OOS": "78.99%",
+    "state": "VT"
   },
   {
     "School": "Wayne State",
@@ -687,7 +755,8 @@
     "Public/Private": "Public - MI",
     "Median MCAT": 513,
     "Median GPA": 3.86,
-    "% of students OOS": "30.56%"
+    "% of students OOS": "30.56%",
+    "state": "MI"
   },
   {
     "School": "Arizona- Tuscon",
@@ -697,7 +766,8 @@
     "Public/Private": "Public - AZ",
     "Median MCAT": 510,
     "Median GPA": 3.79,
-    "% of students OOS": "23.33%"
+    "% of students OOS": "23.33%",
+    "state": "AZ"
   },
   {
     "School": "Kentucky",
@@ -707,7 +777,8 @@
     "Public/Private": "Public - KY",
     "Median MCAT": 508,
     "Median GPA": 3.81,
-    "% of students OOS": "20.48%"
+    "% of students OOS": "20.48%",
+    "state": "KY"
   },
   {
     "School": "Rutgers RWJMS",
@@ -717,7 +788,8 @@
     "Public/Private": "Public - NJ",
     "Median MCAT": 514,
     "Median GPA": 3.75,
-    "% of students OOS": "22.99%"
+    "% of students OOS": "22.99%",
+    "state": "NJ"
   },
   {
     "School": "Saint Louis University",
@@ -727,7 +799,8 @@
     "Public/Private": "Private-MO",
     "Median MCAT": 514,
     "Median GPA": 3.91,
-    "% of students OOS": "87.98%"
+    "% of students OOS": "87.98%",
+    "state": "MO"
   },
   {
     "School": "Oklahoma",
@@ -737,7 +810,8 @@
     "Public/Private": "Public - OK",
     "Median MCAT": 511,
     "Median GPA": 3.85,
-    "% of students OOS": "6.67%"
+    "% of students OOS": "6.67%",
+    "state": "OK"
   },
   {
     "School": "Louisville",
@@ -747,7 +821,8 @@
     "Public/Private": "Public - KY",
     "Median MCAT": 509,
     "Median GPA": 3.77,
-    "% of students OOS": "24.69%"
+    "% of students OOS": "24.69%",
+    "state": "KY"
   },
   {
     "School": "MCG Augusta",
@@ -757,7 +832,8 @@
     "Public/Private": "Public - GA",
     "Median MCAT": 513,
     "Median GPA": 3.82,
-    "% of students OOS": "1.74%"
+    "% of students OOS": "1.74%",
+    "state": "GA"
   },
   {
     "School": "Missouri - Columbia",
@@ -767,7 +843,8 @@
     "Public/Private": "Public - MO",
     "Median MCAT": 509,
     "Median GPA": 3.86,
-    "% of students OOS": "16.96%"
+    "% of students OOS": "16.96%",
+    "state": "MO"
   },
   {
     "School": "Texas A&M",
@@ -777,7 +854,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 513,
     "Median GPA": 3.84,
-    "% of students OOS": "14.29%"
+    "% of students OOS": "14.29%",
+    "state": "TX"
   },
   {
     "School": "Kansas",
@@ -787,7 +865,8 @@
     "Public/Private": "Public - KS",
     "Median MCAT": 511,
     "Median GPA": 3.88,
-    "% of students OOS": "11.85%"
+    "% of students OOS": "11.85%",
+    "state": "KS"
   },
   {
     "School": "Arkansas",
@@ -797,7 +876,8 @@
     "Public/Private": "Public - AK",
     "Median MCAT": 508,
     "Median GPA": 3.77,
-    "% of students OOS": "4.76%"
+    "% of students OOS": "4.76%",
+    "state": "AK"
   },
   {
     "School": "Buffalo",
@@ -807,7 +887,8 @@
     "Public/Private": "Public - NY",
     "Median MCAT": 512,
     "Median GPA": 3.75,
-    "% of students OOS": "12.50%"
+    "% of students OOS": "12.50%",
+    "state": "NY"
   },
   {
     "School": "New Mexico",
@@ -817,7 +898,8 @@
     "Public/Private": "Public - NM",
     "Median MCAT": 505,
     "Median GPA": 3.8,
-    "% of students OOS": "6.80%"
+    "% of students OOS": "6.80%",
+    "state": "NM"
   },
   {
     "School": "Missouri - Kansas City",
@@ -827,7 +909,8 @@
     "Public/Private": "Public-MO",
     "Median MCAT": 509,
     "Median GPA": 3.89,
-    "% of students OOS": "36.22%"
+    "% of students OOS": "36.22%",
+    "state": "MO"
   },
   {
     "School": "Virginia Tech",
@@ -837,7 +920,8 @@
     "Public/Private": "Public - VA",
     "Median MCAT": 512,
     "Median GPA": 3.57,
-    "% of students OOS": "75.00%"
+    "% of students OOS": "75.00%",
+    "state": "VA"
   },
   {
     "School": "West Virginia University",
@@ -847,7 +931,8 @@
     "Public/Private": "Public - WV",
     "Median MCAT": 509,
     "Median GPA": 3.88,
-    "% of students OOS": "45.54%"
+    "% of students OOS": "45.54%",
+    "state": "WV"
   },
   {
     "School": "Drexel",
@@ -857,7 +942,8 @@
     "Public/Private": "Private-PA",
     "Median MCAT": 512,
     "Median GPA": 3.75,
-    "% of students OOS": "75.39%"
+    "% of students OOS": "75.39%",
+    "state": "PA"
   },
   {
     "School": "UCF (Central Florida)",
@@ -867,7 +953,8 @@
     "Public/Private": "Public - FL",
     "Median MCAT": 514,
     "Median GPA": 3.88,
-    "% of students OOS": "33.33%"
+    "% of students OOS": "33.33%",
+    "state": "FL"
   },
   {
     "School": "Eastern Virginia Medical School (EVMS)",
@@ -877,7 +964,8 @@
     "Public/Private": "Public - VA",
     "Median MCAT": 513,
     "Median GPA": 3.71,
-    "% of students OOS": "46.36%"
+    "% of students OOS": "46.36%",
+    "state": "VA"
   },
   {
     "School": "SUNY Upstate",
@@ -887,7 +975,8 @@
     "Public/Private": "Public - NY",
     "Median MCAT": 513,
     "Median GPA": 3.77,
-    "% of students OOS": ""
+    "% of students OOS": "",
+    "state": "NY"
   },
   {
     "School": "Nevada Reno",
@@ -897,7 +986,8 @@
     "Public/Private": "Public - NV",
     "Median MCAT": 509,
     "Median GPA": 3.82,
-    "% of students OOS": "8.57%"
+    "% of students OOS": "8.57%",
+    "state": "NV"
   },
   {
     "School": "NYMC",
@@ -907,7 +997,8 @@
     "Public/Private": "Private-NY",
     "Median MCAT": 513,
     "Median GPA": 3.72,
-    "% of students OOS": "47.62%"
+    "% of students OOS": "47.62%",
+    "state": "NY"
   },
   {
     "School": "U South Carolina",
@@ -917,7 +1008,8 @@
     "Public/Private": "Public -SC",
     "Median MCAT": 508,
     "Median GPA": 3.79,
-    "% of students OOS": "26.00%"
+    "% of students OOS": "26.00%",
+    "state": "SC"
   },
   {
     "School": "Cooper",
@@ -927,7 +1019,8 @@
     "Public/Private": "Public - NJ",
     "Median MCAT": 512,
     "Median GPA": 3.79,
-    "% of students OOS": "27.10%"
+    "% of students OOS": "27.10%",
+    "state": "NJ"
   },
   {
     "School": "East Carolina (Brody ECU)",
@@ -937,7 +1030,8 @@
     "Public/Private": "Public - NC",
     "Median MCAT": 509,
     "Median GPA": 3.71,
-    "% of students OOS": "0.00%"
+    "% of students OOS": "0.00%",
+    "state": "NC"
   },
   {
     "School": "East Tennessee",
@@ -947,7 +1041,8 @@
     "Public/Private": "Public-TN",
     "Median MCAT": 508,
     "Median GPA": 3.81,
-    "% of students OOS": "22.22%"
+    "% of students OOS": "22.22%",
+    "state": "TN"
   },
   {
     "School": "FAU",
@@ -957,7 +1052,8 @@
     "Public/Private": "Public - FL",
     "Median MCAT": 513,
     "Median GPA": 3.8,
-    "% of students OOS": "33.85%"
+    "% of students OOS": "33.85%",
+    "state": "FL"
   },
   {
     "School": "Florida International University",
@@ -967,7 +1063,8 @@
     "Public/Private": "Public-FL",
     "Median MCAT": 511,
     "Median GPA": 3.79,
-    "% of students OOS": "18.33%"
+    "% of students OOS": "18.33%",
+    "state": "FL"
   },
   {
     "School": "Florida State University",
@@ -977,7 +1074,8 @@
     "Public/Private": "Public - FL",
     "Median MCAT": 508,
     "Median GPA": 3.76,
-    "% of students OOS": "1.67%"
+    "% of students OOS": "1.67%",
+    "state": "FL"
   },
   {
     "School": "Frank H Netter Quinnipiac",
@@ -987,7 +1085,8 @@
     "Public/Private": "Private-CT",
     "Median MCAT": 514,
     "Median GPA": 3.71,
-    "% of students OOS": "60.20%"
+    "% of students OOS": "60.20%",
+    "state": "CT"
   },
   {
     "School": "Howard",
@@ -997,7 +1096,8 @@
     "Public/Private": "Private - DC",
     "Median MCAT": 505,
     "Median GPA": 3.53,
-    "% of students OOS": "92.50%"
+    "% of students OOS": "92.50%",
+    "state": "DC"
   },
   {
     "School": "LSU Shreveport",
@@ -1007,7 +1107,8 @@
     "Public/Private": "Public - LO",
     "Median MCAT": 506,
     "Median GPA": 3.77,
-    "% of students OOS": ""
+    "% of students OOS": "",
+    "state": "LO"
   },
   {
     "School": "Marshall",
@@ -1017,7 +1118,8 @@
     "Public/Private": "Public - WV",
     "Median MCAT": 502,
     "Median GPA": 3.7,
-    "% of students OOS": "13.92%"
+    "% of students OOS": "13.92%",
+    "state": "WV"
   },
   {
     "School": "Tennessee",
@@ -1027,7 +1129,8 @@
     "Public/Private": "Public - TN",
     "Median MCAT": 513,
     "Median GPA": 3.82,
-    "% of students OOS": "9.41%"
+    "% of students OOS": "9.41%",
+    "state": "TN"
   },
   {
     "School": "Texas Tech Lubbock",
@@ -1037,7 +1140,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 510,
     "Median GPA": 3.87,
-    "% of students OOS": "8.89%"
+    "% of students OOS": "8.89%",
+    "state": "TX"
   },
   {
     "School": "Toledo",
@@ -1047,7 +1151,8 @@
     "Public/Private": "Public - OH",
     "Median MCAT": 510,
     "Median GPA": 3.76,
-    "% of students OOS": "29.71%"
+    "% of students OOS": "29.71%",
+    "state": "OH"
   },
   {
     "School": "UC Riverside",
@@ -1057,7 +1162,8 @@
     "Public/Private": "Public - CA",
     "Median MCAT": 508,
     "Median GPA": 3.59,
-    "% of students OOS": "1.43%"
+    "% of students OOS": "1.43%",
+    "state": "CA"
   },
   {
     "School": "TCU & University of North Texas Health Science Center",
@@ -1067,7 +1173,8 @@
     "Public/Private": "Public-TX",
     "Median MCAT": 510,
     "Median GPA": 3.71,
-    "% of students OOS": "26.67%"
+    "% of students OOS": "26.67%",
+    "state": "TX"
   },
   {
     "School": "Wright State Boonshoft",
@@ -1077,7 +1184,8 @@
     "Public/Private": "Public - OH",
     "Median MCAT": 508,
     "Median GPA": 3.73,
-    "% of students OOS": "32.50%"
+    "% of students OOS": "32.50%",
+    "state": "OH"
   },
   {
     "School": "Loyola University Chicago Stritch School of Medicine",
@@ -1087,7 +1195,8 @@
     "Public/Private": "Private-IL",
     "Median MCAT": 512,
     "Median GPA": 3.76,
-    "% of students OOS": "70.30%"
+    "% of students OOS": "70.30%",
+    "state": "IL"
   },
   {
     "School": "MCW (unranked 2021)",
@@ -1097,7 +1206,8 @@
     "Public/Private": "Private - WI",
     "Median MCAT": 511,
     "Median GPA": 3.73,
-    "% of students OOS": "45.20%"
+    "% of students OOS": "45.20%",
+    "state": "WI"
   },
   {
     "School": "Michigan State (unranked 2021)",
@@ -1107,7 +1217,8 @@
     "Public/Private": "Public - MI",
     "Median MCAT": 509,
     "Median GPA": 3.76,
-    "% of students OOS": "28.95%"
+    "% of students OOS": "28.95%",
+    "state": "MI"
   },
   {
     "School": "MUSC",
@@ -1117,7 +1228,8 @@
     "Public/Private": "Public - SC",
     "Median MCAT": 510,
     "Median GPA": 3.83,
-    "% of students OOS": "6.43%"
+    "% of students OOS": "6.43%",
+    "state": "SC"
   },
   {
     "School": "North Dakota (unranked 2021)",
@@ -1127,7 +1239,8 @@
     "Public/Private": "Public - ND",
     "Median MCAT": 507,
     "Median GPA": 3.8,
-    "% of students OOS": "45.45%"
+    "% of students OOS": "45.45%",
+    "state": "ND"
   },
   {
     "School": "South Dakota (unranked 2021)",
@@ -1137,7 +1250,8 @@
     "Public/Private": "Public - SD",
     "Median MCAT": 508,
     "Median GPA": 3.87,
-    "% of students OOS": "8.96%"
+    "% of students OOS": "8.96%",
+    "state": "SD"
   },
   {
     "School": "Texas Tech El Paso (unranked 2021)",
@@ -1147,7 +1261,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 512,
     "Median GPA": 3.89,
-    "% of students OOS": "3.00%"
+    "% of students OOS": "3.00%",
+    "state": "TX"
   },
   {
     "School": "UTMB (unranked 2020)",
@@ -1157,7 +1272,8 @@
     "Public/Private": "Public - TX",
     "Median MCAT": 511,
     "Median GPA": 3.88,
-    "% of students OOS": "3.04%"
+    "% of students OOS": "3.04%",
+    "state": "TX"
   },
   {
     "School": "Midwestern University Chicago",
@@ -1167,7 +1283,8 @@
     "Public/Private": "Private - IL",
     "Median MCAT": 507,
     "Median GPA": 3.65,
-    "% of students OOS": "52.56%"
+    "% of students OOS": "52.56%",
+    "state": "IL"
   },
   {
     "School": "LECOM",
@@ -1177,7 +1294,8 @@
     "Public/Private": "Private - PA",
     "Median MCAT": 503,
     "Median GPA": 3.68,
-    "% of students OOS": "58.50%"
+    "% of students OOS": "58.50%",
+    "state": "PA"
   },
   {
     "School": "VCOM",
@@ -1187,7 +1305,8 @@
     "Public/Private": "Private - VA",
     "Median MCAT": 501,
     "Median GPA": 3.65,
-    "% of students OOS": "59.55%"
+    "% of students OOS": "59.55%",
+    "state": "VA"
   },
   {
     "School": "Midwestern Arizona",
@@ -1197,6 +1316,7 @@
     "Public/Private": "Private - AZ",
     "Median MCAT": 507,
     "Median GPA": 3.54,
-    "% of students OOS": "63.49%"
+    "% of students OOS": "63.49%",
+    "state": "AZ"
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Med Schools",
+  "name_for_model": "med_schools",
+  "description_for_human": "Figure out which med schools you should apply to",
+  "description_for_model": "Get a list of med schools and their acceptance rate, average GPA, and average MCAT score, state, etc.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:3000/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "http://localhost:3000/chatgpt-plugin-logo.png",
+  "contact_email": "support@example.com",
+  "legal_info_url": "http://www.example.com/legal"
+}
